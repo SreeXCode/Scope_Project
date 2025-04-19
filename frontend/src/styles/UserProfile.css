@@ -1,0 +1,16 @@
+.profile-img {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 5px; /* Square shape */
+
+}
+.font-style{
+  font-family: 'Poppins', sans-serif;
+  font-weight:200;
+
+}
+.font-style2{
+  font-family: 'Poppins', sans-serif;
+  font-weight:400;
+}

@@ -1,0 +1,107 @@
+
+.Home-logo-bg{
+  background-image:  url(.././../public/images/homeBg.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height:auto ; /* Ensures it covers the full viewport */
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 20px; /* Adds spacing inside the container */
+}
+.fiveStar-txt{
+  text-align: justify;
+  font-family: 'Poppins', sans-serif;
+  color: #000c81;
+}
+.SCOPE-HEADING{
+  color: #000c81;
+  font-family: "Viga", Arial, Tahoma, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 55px;
+}
+.oneOFF{
+color: #000c81;
+font-family: "Viga", Arial, Tahoma, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+}
+.paragrap{
+  color: #000c81;
+  padding-left: 7rem;  /* Default for larger screens */
+  padding-right: 7rem; /* Default for larger screens */
+  text-align: justify;
+  font-family: 'Poppins', sans-serif;
+
+}
+/* Adjust padding and ensure justified text for smaller screens paragraph*/
+@media (max-width: 576px) {
+  .paragrap {
+      padding-left: 1rem;
+      padding-right: 1rem;
+      text-align: justify;
+  }
+}
+@media (max-width: 768px) {
+  .paragrap {
+      padding-left: 1rem;
+      padding-right: 1rem;
+      text-align: justify;
+  }
+}
+
+@media (max-width: 576px) {
+  .paragrap {
+      padding-left: 1rem;
+      padding-right: 1rem;
+      text-align: justify;
+  }
+}
+
+.four-icon-heading{
+  font-family: "Kanit", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 50px;
+  color: #000c81;
+}
+.four-icon-heading-para{
+  text-align: justify;
+  font-family: "Kanit", sans-serif;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  color: #000c81;
+}
+.INDIAA{
+ font-size: 35px;
+ color: #000c81;
+
+  
+}
+.is-open{
+  font-family: "Kanit", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 35px;
+  color: #000c81;
+}
+.we-are{
+  color: #000c81;
+  text-align: justify;
+  font-family: 'Poppins', sans-serif;
+  font-size: 17px;
+}
+
+
+
+
+
+
+

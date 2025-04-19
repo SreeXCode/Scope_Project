@@ -1,0 +1,108 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  .bg-image {
+    overflow: hidden;
+  }
+.SCOPE-INDIA-HEADING{
+    padding-top: 160px;
+    color: #fbba02;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 52px;
+}   
+.OneofIndia{
+padding-top: 12px;
+color: white;
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 600;
+} 
+
+.paragraph {
+    color: white;
+    padding-left: 7rem;  /* Default for larger screens */
+    padding-right: 7rem; /* Default for larger screens */
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Adjust padding and ensure justified text for smaller screens paragraph*/
+@media (max-width: 576px) {
+    .paragraph {
+        padding-left: 1rem;
+        padding-right: 1rem;
+        text-align: justify;
+    }
+}
+@media (max-width: 768px) {
+    .paragraph {
+        padding-left: 1rem;
+        padding-right: 1rem;
+        text-align: justify;
+    }
+}
+
+@media (max-width: 576px) {
+    .paragraph {
+        padding-left: 1rem;
+        padding-right: 1rem;
+        text-align: justify;
+    }
+}
+.para {
+    margin-top: -15px;
+}
+/* Adjust padding and ensure justified text for smaller screens paragraph*/
+
+.This-is-how{
+    color: white;
+    margin-left: 132px;
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+}
+.five-star-dis{
+    color: white;
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+}
+.Three-Button{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    
+
+}
+.btn-custom1 {
+    background-color: #7c62bd !important; /* Set the button background to your color */
+    color: white !important; /* Set text color to white */
+    border: none; /* Optional: Remove the button border */
+  }
+  .btn-custom2 {
+    background-color: #62bdb4 !important; /* Set the button background to your color */
+    color: white !important; /* Set text color to white */
+    border: none; /* Optional: Remove the button border */
+  }
+  .btn-custom3 {
+    background-color: #5ead5e !important; /* Set the button background to your color */
+    color: white !important; /* Set text color to white */
+    border: none; /* Optional: Remove the button border */
+  }
+ 
+  .thousandplus{
+    margin-top: 170px;
+   
+  }
+  .num-large {
+    font-size: 58px;
+    font-weight: bold;
+    color:#19cf37;
+  }
+  .txtoffirstthree-all{
+  
+      font-family: 'Kanit', sans-serif;
+    
+  }

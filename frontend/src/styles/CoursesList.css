@@ -1,0 +1,54 @@
+.scope-head-course {
+    color: #FBBA02;
+    font-family: "Times New Roman";
+    font-weight: 300;
+    font-size: 56px;
+}
+.Centerfor {
+    color: white;
+    font-size: 36px;
+    font-family: "Viga", Arial, Tahoma, sans-serif;
+    font-weight:500;
+}
+.ptag{
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    font-family: "Viga", Arial, Tahoma, sans-serif;
+
+}
+
+.fiveRate {
+    color: white;
+    text-align: center;
+    font-size: 17px;
+    font-family: "Poppins", Arial, sans-serif;
+    font-weight: 400; /* Now it will be light */
+}
+.category{
+    font-family: "Viga", Arial, Tahoma, sans-serif;
+    font-weight:800;
+    font-size: 35px;
+}
+.course{
+    font-family: "Roboto", Arial, Tahoma, sans-serif;
+    font-weight: 300; /* Lighter font weight */
+    font-size: 22px;
+    color: #0000ff;
+    
+}
+
+.we-are-open{
+    color: #000C81;
+    font-family: "Viga", Arial, Tahoma, sans-serif;
+    font-weight:800;
+    font-size: 35px; 
+    margin-left: 40px;
+
+}
+.openseven{
+    color: #050A4C;
+    margin-left: 40px;
+
+}
+

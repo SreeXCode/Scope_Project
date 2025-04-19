@@ -1,0 +1,101 @@
+
+.callme{
+    font-size: 35px;
+    font-family: 'Kanit', sans-serif;
+    font-weight: 700;
+    color:#009318;
+   width: 450px;
+   
+}
+.input-box{
+    width: 450px;
+    height: 35px;
+    border: 1px black solid;
+    border-radius: 2px;
+
+}
+.callme-button{
+    background-color:#18cf36;
+    height: 38px;
+    width: 450px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Kanit', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+   
+}
+
+.b1{
+    background-color: #7c62bd !important; /* Set the button background to your color */
+    color: white !important; /* Set text color to white */
+    border: none; /* Optional: Remove the button border */
+    width: 450px;
+    font-family: 'Kanit', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+}
+.b2{
+    background-color: #62bdb4 !important; /* Set the button background to your color */
+    color: white !important; /* Set text color to white */
+    border: none; /* Optional: Remove the button border */
+    width: 450px;
+    font-family: 'Kanit', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+}
+.b3{
+    background-color: #5ead5e !important; /* Set the button background to your color */
+    color: white !important; /* Set text color to white */
+    border: none; /* Optional: Remove the button border */
+    width: 450px;
+    font-family: 'Kanit', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+}
+.input-box::placeholder {
+    color:grey;
+    padding-left: 10px;
+    font-family: 'Kanit', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+}
+.Locations{
+    
+    font-family: 'Kanit', sans-serif;
+    font-weight: 400;
+    color:white;
+    margin-left: 85px;
+    padding-top: 25px;
+}
+@media (max-width: 991px) {
+    .Locations {
+        margin-left: 0; /* Remove the margin on small screens */
+        text-align: center; /* Center the text */
+    }
+}
+
+.colu{
+    
+    width: 510px;
+    border-radius: 5px;
+    border:  2px solid white;
+    height: 315px; 
+}
+.heading{
+    font-size: 30px;
+    font-family: 'Kanit', sans-serif;
+    font-weight: 800;
+    color:white;
+}
+.loc{
+    color: white;
+    font-family: 'Kanit', sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+    padding: 1px;
+}
+
+  
+

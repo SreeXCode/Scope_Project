@@ -1,0 +1,58 @@
+.REGIS-HEAD{
+    
+    font-family: 'Kanit', sans-serif;
+    font-weight: 500;
+    color:#fbba02;
+    font-size: 60px;
+}
+.just-a-matter{
+    font-family: 'Kanit', sans-serif;
+    font-size: 40px;
+    color:rgb(255, 255, 255);
+}
+.boxOne{
+   border: 1px solid black;
+   height: 930px;
+   width: 490px;
+}
+.boxTwo{
+        border: 1px solid black;
+        height: 930px;
+        width: 490px;
+}
+ /* form Styling */
+ .lab{
+    
+    font-family: "Poppins", Arial, Tahoma, sans-serif;
+    font-weight:700;
+    font-size: 16px;
+ 
+ }
+
+
+ input[type="date"] {
+    color:rgb(95, 90, 90);
+    font-family: "Poppins", Arial, Tahoma, sans-serif;
+    font-weight:400;
+    font-size: 20px;  
+    padding: 4px 12px 4px 12px; 
+  }
+  .opt{
+    color:rgb(95, 90, 90);
+    font-family: "Poppins", Arial, Tahoma, sans-serif;
+    font-weight:400;
+    font-size: 17px; 
+  }
+  .com-reg-button{
+   background-color:#18cf36;
+   font-size: 20px;
+   padding: 0px;
+   font-weight: bold;
+   border: none;
+  }
+  
+ 
+ 
+  
+  
+  

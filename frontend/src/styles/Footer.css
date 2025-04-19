@@ -1,0 +1,16 @@
+.FooterClass{
+  background-color:rgb(4,28,93);
+  height: auto;
+  width: auto;
+}
+
+.number-large {
+  font-size: 58px;
+  font-weight: bold;
+  color: rgb(72, 164, 201);
+}
+.txtoffirstthree{
+
+    font-family: 'Kanit', sans-serif;
+  
+}
