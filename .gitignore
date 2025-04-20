@@ -17,8 +17,8 @@ backend/node_modules/
 frontend/build/
 backend/dist/
 
-# Environment files (make sure to have this in your backend if you use `.env`)
-*.env
+# # Environment files (make sure to have this in your backend if you use `.env`)
+# *.env
 
 # Temporary files (e.g., for testing frameworks)
 *.test.js
