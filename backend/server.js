@@ -687,6 +687,7 @@ app.get("/admin/all-admins",isAdmin, async (req, res) => {
 
 // Remove Admins
 app.delete("/remove/admin/:id",isAdmin, async (req, res) => {
+  
   try {
     const admin = await Admin.findById(req.params.id);
     console.log('admin',admin)

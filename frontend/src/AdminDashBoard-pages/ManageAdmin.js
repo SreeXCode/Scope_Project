@@ -19,7 +19,9 @@ const ManageAdmins = () => {
   const handleRemove = (adminId) => {
     if (!window.confirm("Are you sure you want to delete this admin?")) return;
 
-    axios.delete(`http://localhost:5000/remove/admin/${adminId}`)
+    axios.delete(`http://localhost:5000/remove/admin/${adminId}`, {
+      withCredentials: true, // ✅ This ensures the token cookie is sent
+    })
       .then(res => {
         if (res.data.success) {
           setAdmins(admins.filter(admin => admin._id !== adminId));
